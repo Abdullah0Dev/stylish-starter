@@ -21,7 +21,7 @@
      Explore the robust features of our full-stack management app with beautiful animations and seamless performance.
     </div>
 </div>
-```markdown
+ 
 ## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
@@ -77,26 +77,43 @@ git clone https://github.com/Abdullah0Dev/stylish.git
 cd stylish
 ```
 
+
 **Installation**
 
-Install the project dependencies using npm:
+Navigate to the `frontend` folder and install dependencies:
 
 ```bash
+cd frontend
 npm install
 ```
 
-**Running the Project**
+Navigate to the `backend` folder and install dependencies:
 
 ```bash
-npm run dev
+cd ../backend
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+**Running the Backend**
 
-## 🖼️ Assets
+Start the backend server:
 
-Find all assets [here](https://drive.google.com/drive/folders/1L1rxpyGG27UXTISyfPVtNuSHLIEc08FV?usp=sharing).
+```bash
+npm start
 ```
+
+**Running the Frontend**
+
+Navigate back to the `frontend` folder and start the React Native app:
+
+```bash
+cd ../frontend
+npx react-native run-android # For Android
+npx react-native run-ios # For iOS
+```
+
+Open the app on your simulator or real device to view the project.
+
 
 ## 🔗 Links
 
