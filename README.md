@@ -21,7 +21,7 @@
      Explore the robust features of our full-stack management app with beautiful animations and seamless performance.
     </div>
 </div>
-
+```markdown
 ## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
@@ -96,6 +96,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## 🖼️ Assets
 
 Find all assets [here](https://drive.google.com/drive/folders/1L1rxpyGG27UXTISyfPVtNuSHLIEc08FV?usp=sharing).
+```
 
 ## 🔗 Links
 
