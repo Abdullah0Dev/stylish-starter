@@ -32,7 +32,7 @@
 6. 🔗 [Links](#links)
  
 ## <a name="introduction">🤖 Introduction</a>
-Welcome to the Full Stack Management App! This app is designed to offer a comprehensive management solution with a focus on responsiveness and smooth animations. Built using React Native, Node.js, and MongoDB, it ensures high performance and scalability.
+Welcome to the Full Stack E-Commerce App! This app is designed to offer a comprehensive management solution with a focus on responsiveness and smooth animations. Built using React Native, Node.js, and MongoDB, it ensures high performance and scalability.
  
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 - **React Native**
