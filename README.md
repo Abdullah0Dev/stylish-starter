@@ -1,7 +1,7 @@
 
 <div align="center">
   <br />
-    <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
+    <a href="https://bit.ly/3LboNOQ" target="_blank">
       <img src="https://i.postimg.cc/GpwtkVCb/thumbnail.png" alt="Project Banner">
     </a>
   <br />
@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
   </div>
 
-  <h3 align="center">Full Stack Management App</h3>
+  <h3 align="center">Full Stack E-Commerce App</h3>
 
    <div align="center">
-     Explore the robust features of our full-stack management app with beautiful animations and seamless performance.
+     Explore the robust features of our full-stack  E-Commerce app with beautiful animations and seamless performance.
     </div>
 </div>
  
