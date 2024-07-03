@@ -111,12 +111,10 @@ npx react-native run-ios # For iOS
 ```
 
 Open the app on your simulator or real device to view the project.
-
-## 🖼️ Assets
+ 
 ## <a name="assets">🖼️ Assets</a>
 Find all assets [here](https://drive.google.com/drive/folders/1L1rxpyGG27UXTISyfPVtNuSHLIEc08FV?usp=sharing).
-
-## 🔗 Links
+ 
 ## <a name="links">🔗 Linkss</a>
 - **GitHub Repository**: [Full Stack Management App](https://github.com/Abdullah0Dev/stylish)
  
