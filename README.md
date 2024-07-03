@@ -30,13 +30,11 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🖼️ [Assets](#assets)
 6. 🔗 [Links](#links)
-
-## 🤖 Introduction
-
+ 
+## <a name="introduction">🤖 Introduction</a>
 Welcome to the Full Stack Management App! This app is designed to offer a comprehensive management solution with a focus on responsiveness and smooth animations. Built using React Native, Node.js, and MongoDB, it ensures high performance and scalability.
-
-## ⚙️ Tech Stack
-
+ 
+## <a name="tech-stack">⚙️ Tech Stack</a>
 - **React Native**
 - **React Native Reanimated**
 - **Tailwind CSS**
@@ -45,7 +43,7 @@ Welcome to the Full Stack Management App! This app is designed to offer a compre
 - **MongoDB**
 
 ## 🔋 Features
-
+## <a name="features"> 🔋 Features</a>
 👉 **Beautiful Subtle Smooth Animations using React Native Reanimated**: Enhance user experience with seamless and captivating animations.
 
 👉 **Completely Responsive**: Access and optimal viewing on any device with a fully responsive design.
@@ -59,7 +57,7 @@ Welcome to the Full Stack Management App! This app is designed to offer a compre
 👉 **Scalable Backend**: Powered by Node.js and Express for a scalable and efficient backend.
 
 ## 🤸 Quick Start
-
+## <a name="quick-start">🤸 Quick Start</a>
 Follow these steps to set up the project locally on your machine.
 
 **Prerequisites**
@@ -115,10 +113,10 @@ npx react-native run-ios # For iOS
 Open the app on your simulator or real device to view the project.
 
 ## 🖼️ Assets
-
+## <a name="assets">🖼️ Assets</a>
 Find all assets [here](https://drive.google.com/drive/folders/1L1rxpyGG27UXTISyfPVtNuSHLIEc08FV?usp=sharing).
 
 ## 🔗 Links
-
+## <a name="links">🔗 Linkss</a>
 - **GitHub Repository**: [Full Stack Management App](https://github.com/Abdullah0Dev/stylish)
  
