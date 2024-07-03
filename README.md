@@ -112,7 +112,8 @@ Open the app on your simulator or real device to view the project.
  
 ## <a name="assets">🖼️ Assets</a>
 Find all assets [here](https://drive.google.com/drive/folders/1L1rxpyGG27UXTISyfPVtNuSHLIEc08FV?usp=sharing).
- 
+
 ## <a name="links">🔗 Linkss</a>
+- **🎨 Design** : [Figma  Management App Desing✍](https://www.figma.com/design/r2oLfsjVOOHBRAmV9zxc8p/eCommerce-App-UI-Kit---Case-Study-Ecommerce-Mobile-App-UI-kit-(Community)?node-id=1-16990&t=aGKMq0fjCva2xjBh-1)
 - **GitHub Repository**: [Full Stack Management App](https://github.com/Abdullah0Dev/stylish)
  
