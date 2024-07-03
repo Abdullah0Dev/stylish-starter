@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <br />
     <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
@@ -100,6 +100,6 @@ Find all assets [here](https://drive.google.com/drive/folders/1L1rxpyGG27UXTISyf
 ## 🔗 Links
 
 - **GitHub Repository**: [Full Stack Management App](https://github.com/Abdullah0Dev/stylish)
-```
+
 
 Let me know if you need any changes or additions! 😊
