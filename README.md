@@ -41,8 +41,7 @@ Welcome to the Full Stack Management App! This app is designed to offer a compre
 - **Node.js**
 - **Express**
 - **MongoDB**
-
-## 🔋 Features
+ 
 ## <a name="features"> 🔋 Features</a>
 👉 **Beautiful Subtle Smooth Animations using React Native Reanimated**: Enhance user experience with seamless and captivating animations.
 
@@ -55,8 +54,7 @@ Welcome to the Full Stack Management App! This app is designed to offer a compre
 👉 **Secure Authentication**: Robust authentication mechanisms to protect user data.
 
 👉 **Scalable Backend**: Powered by Node.js and Express for a scalable and efficient backend.
-
-## 🤸 Quick Start
+ 
 ## <a name="quick-start">🤸 Quick Start</a>
 Follow these steps to set up the project locally on your machine.
 
