@@ -69,8 +69,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abdullah0Dev/stylish.git
-cd stylish
+git clone https://github.com/Abdullah0Dev/stylish-starter.git
+cd stylish-starter
 ```
 
 
