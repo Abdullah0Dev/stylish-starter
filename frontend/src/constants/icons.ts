@@ -1,4 +1,5 @@
 const eye = require('../assets/icons/eye.png');
+const eyeHide = require('../assets/icons/eye_hide.png');
 const next1 = require('../assets/icons/arrow_right.png');
 const buy_now = require('../assets/icons/but_now.png');
 const apple = require('../assets/icons/apple.png');
@@ -30,6 +31,7 @@ export default {
   cart,
   facebook,
   filter,
+  eyeHide,
   google,
   heart,
   home,
